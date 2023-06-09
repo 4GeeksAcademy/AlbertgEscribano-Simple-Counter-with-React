@@ -1,3 +1,35 @@
+body {
+    background-image: url("https://picsum.photos/id/201/1200/");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.Counter{
+    display: flex;
+    top: 0px;
+    right: 0px;
+    bottom:0px;
+    left: 0px;
+
+}
+
+
+.Counter div{
+    display: inline-block;
+    font-size: 100px;
+    line-height: 100px;
+    color: #ed281a;
+    padding: 10px;
+    margin: 4px;
+    border: 4px #ed281a solid;
+    border-radius: 6%;
+}
+
+
+
 
 /* 
 
